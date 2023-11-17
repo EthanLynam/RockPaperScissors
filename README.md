@@ -11,4 +11,6 @@ javac RockPaperScissors.java
 
 java RockPaperScissors
 
-The game is played within the terminal, when you run the program you should be prompted.
+The game is played within the terminal, when you run the program you should be prompted. 
+First the program will take in an integer for the number of games, then play x amount of games with you.
+Finally, itt will output the final results of all games.
